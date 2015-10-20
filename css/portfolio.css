@@ -1,0 +1,152 @@
+
+body {
+
+}
+
+.hero {
+    background: url("../images/IMG_3314.jpg");
+    background-size: cover;
+    height: 80vh;
+}
+
+.box {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    padding: 10px 25px;
+    display: block;
+
+}
+.web-box {
+   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    padding: 10px;
+    margin-top: 20px;
+    display: block;
+}
+
+.lightest-text{
+    font-weight: 100;
+}
+
+.lighter-text{
+    font-weight: 200;
+}
+
+h2 {
+    font-weight: 100;
+}
+
+
+.project {
+    height: 100vh;
+}
+
+.landing{
+    height: 100vh;
+}
+
+.margin20 {
+    margin-top: 15vh;
+}
+
+.tab-content {
+  margin: 5%;
+}
+
+.med-text {
+  font-size: 20px
+}
+
+.full-img {
+  width: 100%
+}
+
+.tabs .tab-title-yelp.active a {
+  border-bottom: solid #ce1505;
+}
+.tabs .tab-title-chop.active a {
+  border-bottom: solid #3E50B4;
+}
+.tabs .tab-title-lilypad.active a {
+  border-bottom: solid #47BDA5;
+}
+button:hover, button:focus, .button-yelp:hover, .button-yelp:focus {
+  background-color: #ce1505;
+}
+button:hover, button:focus, .button-lilypad:hover, .button-lilypad:focus {
+  background-color: #47BDA5;
+}
+.tabs .tab-title-schedulr.active a {
+  border-bottom: solid #54A9CA;
+}
+button:hover, button:focus, .button-schedulr:hover, .button-schedulr:focus {
+  background-color: #54A9CA;
+}
+.tabs .tab-title-famalert.active a {
+  border-bottom: solid #FF5466;
+}
+button:hover, button:focus, .button-famalert:hover, .button-famalert:focus {
+  background-color: #FF5466;
+}
+button:hover, button:focus, .button-filmi:hover, .button-filmi:focus {
+  background-color: #FFC107;
+}
+button:hover, button:focus, .button-chop:hover, .button-chop:focus {
+  background-color: #3E50B4;
+}
+button:hover, button:focus, .button-bounce:hover, .button-bounce:focus {
+  background-color: #F96332;
+}
+
+
+
+.tabs .tab-title-filmi a {
+  border-bottom: solid #FFC107;
+}
+
+#mobile {
+  padding-top: 5%;
+}
+
+#web {
+  padding-top: 5%;
+}
+
+.card-style {
+  -webkit-box-shadow: 1px 1px 5px 1px rgba(221,221,221,1)
+}
+
+#misc {
+    padding-top: 5%;
+}
+
+.hero-title {
+  font-size: 3em;
+  color: #fff;
+}
+
+.hero-subtitle {
+  font-size: 2.3em;
+  color: #fff;
+}
+
+.hero-text {
+  padding: 2%
+}
+
+
+
+.rel-div {
+  position: relative;
+}
+
+.famalert-walkthrough {
+  position: absolute;
+  left: 0;
+  top: 0
+}
+.white-text{
+ color: #fff;
+}
+
+.bounce-border {
+  border-bottom: solid 2px #F96332;
+}
